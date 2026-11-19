@@ -48,7 +48,7 @@ This log distinguishes available evidence from inference. Unknown dates remain b
 - **Date:** 2026-09-27 (saved file timestamp)
 - **Hypothesis:** A standalone dashboard can be powered through a properly rated DC-DC converter and communicate with compatible controller signals while reading independent brake/speed inputs.
 - **What I did:** Created a conceptual guide showing battery, fuse/main switch, controller, DC-DC conversion, ESP32, display, buttons, sensors, buzzer, LEDs, and lighting.
-- **What happened:** Produced a planning diagram with explicit warnings that original Veo connections and pinouts are unverified. It does not prove compatibility or safe direct connection.
+- **What happened:** Produced a planning diagram with explicit warnings that original V-E0 connections and pinouts are unverified. It does not prove compatibility or safe direct connection.
 - **What I would change:** Use the exact controller model and datasheet; document measured voltage/current and logic levels; keep traction wiring separate from low-voltage prototyping.
 
 ## Electric Scooter Controller Exploded CAD Infographic
@@ -61,9 +61,9 @@ This log distinguishes available evidence from inference. Unknown dates remain b
 ## Original vehicle-photo recovery
 - **Date:** 
 - **Hypothesis:** Earlier project materials may contain original Cosmo, Astro, and Apollo vehicle photographs alongside engineering work.
-- **What I did:** Searched available conversation and Library files for Veo, Cosmo, Astro, Apollo, scooter/e-bike, PCB, and reverse-engineering terms.
+- **What I did:** Searched available conversation and Library files for V-E0, Cosmo, Astro, Apollo, scooter/e-bike, PCB, and reverse-engineering terms.
 - **What happened:** Recovered engineering illustrations listed in the inventory, but did not recover the original Cosmo/Astro/Apollo vehicle photographs or a complete source-photo set.
 - **What I would change:** Add original vehicle photographs and source notes when recovered, preserving original filenames and capture dates.
 
 ## Overall conclusion
-The defensible description is that this work developed a reverse-engineering **research plan and conceptual redesign**, centered on understanding a Veo shared-ride display/control assembly and exploring an independent ESP32 dashboard. The available record does not prove successful reverse engineering or a working scooter modification. The next milestone should be a documented, safe, non-invasive measurement and bench-test package.
+The defensible description is that this work developed a reverse-engineering **research plan and conceptual redesign**, centered on understanding a V-E0 shared-ride display/control assembly and exploring an independent ESP32 dashboard. The available record does not prove successful reverse engineering or a working scooter modification. The next milestone should be a documented, safe, non-invasive measurement and bench-test package.
