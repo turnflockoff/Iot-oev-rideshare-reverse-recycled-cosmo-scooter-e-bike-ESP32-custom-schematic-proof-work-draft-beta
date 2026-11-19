@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+<defs><style>
+.bg{fill:#10151d}.panel{fill:#1b2633;stroke:#6d8095;stroke-width:2}.title{fill:#fff;font:700 30px sans-serif}.h{fill:#fff;font:700 22px sans-serif}.t{fill:#d7e0ea;font:18px sans-serif}.small{fill:#f6c66b;font:16px sans-serif}.arr{stroke:#9fb4c9;stroke-width:4;fill:none;marker-end:url(#a)}.warn{fill:#3a2024;stroke:#e16a6a;stroke-width:2}
+</style><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#9fb4c9"/></marker></defs>
+<rect class="bg" width="1200" height="720"/>
+<text class="title" x="50" y="55">Concept architecture — ESP32-S3 dashboard replacement</text>
+<text class="small" x="50" y="88">NOT A WIRING DIAGRAM • connector voltages and protocols are unverified</text>
+<rect class="panel" x="55" y="145" width="250" height="130" rx="14"/><text class="h" x="180" y="190" text-anchor="middle">Battery pack</text><text class="t" x="180" y="225" text-anchor="middle">46.8 V label</text><text class="t" x="180" y="250" text-anchor="middle">15 Ah / 702 Wh</text>
+<rect class="panel" x="400" y="125" width="300" height="170" rx="14"/><text class="h" x="550" y="170" text-anchor="middle">Protected DC/DC</text><text class="t" x="550" y="210" text-anchor="middle">Input rating TBD</text><text class="t" x="550" y="245" text-anchor="middle">5 V + 3.3 V rails</text>
+<path class="arr" d="M305 210 H395"/>
+<rect class="panel" x="805" y="125" width="330" height="170" rx="14"/><text class="h" x="970" y="175" text-anchor="middle">ESP32-S3 module</text><text class="t" x="970" y="215" text-anchor="middle">Custom firmware</text><text class="t" x="970" y="250" text-anchor="middle">BLE / Wi-Fi app link</text>
+<path class="arr" d="M700 210 H800"/>
+<rect class="panel" x="55" y="390" width="300" height="150" rx="14"/><text class="h" x="205" y="435" text-anchor="middle">Original 9-port panel</text><text class="t" x="205" y="475" text-anchor="middle">Labels recorded</text><text class="t" x="205" y="510" text-anchor="middle">Pinout not verified</text>
+<rect class="panel" x="450" y="390" width="300" height="150" rx="14"/><text class="h" x="600" y="435" text-anchor="middle">Protected interfaces</text><text class="t" x="600" y="475" text-anchor="middle">ADC / GPIO / UART</text><text class="t" x="600" y="510" text-anchor="middle">Drivers / transceivers TBD</text>
+<rect class="panel" x="845" y="390" width="290" height="150" rx="14"/><text class="h" x="990" y="435" text-anchor="middle">Phone app / display</text><text class="t" x="990" y="475" text-anchor="middle">Status / diagnostics</text><text class="t" x="990" y="510" text-anchor="middle">No propulsion control yet</text>
+<path class="arr" d="M355 465 H445"/><path class="arr" d="M750 465 H840"/><path class="arr" d="M970 295 V385"/>
+<rect class="warn" x="260" y="590" width="680" height="80" rx="12"/><text class="h" x="600" y="625" text-anchor="middle">Safety boundary</text><text class="t" x="600" y="653" text-anchor="middle">Do not connect to throttle, brake, motor, or battery until measured and reviewed.</text>
+</svg>
