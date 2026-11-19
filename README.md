@@ -4,6 +4,8 @@
 **Project owner:** TurnFlockOff / turnflockoff  
 **Dates:** Intentionally left blank wherever the source record does not establish a date.
 
+**Naming note:** “V-E0” is a neutral project codename used in this documentation. This is an independent research project; no affiliation, sponsorship, endorsement, or authorization by any scooter operator or manufacturer is claimed. The codename is not a legal shield and does not determine trademark or other legal rights.
+
 This repository records the observed hardware, the reverse-engineering approach, the proposed ESP32 replacement dashboard/controller-interface board, generated concept illustrations, open questions, and the next validation steps.
 
 > **Safety and evidence notice:** Photos and measurements are evidence; interpretations are labeled as such. Generated wiring diagrams and 3D renders are concept artwork, not verified schematics, pinouts, CAD, or manufacturing files. Do not use them to wire a live scooter. No traction-control, throttle, brake, battery, or motor-controller modification is approved by this draft.
