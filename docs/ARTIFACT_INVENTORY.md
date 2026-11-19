@@ -10,7 +10,7 @@ The images below are saved engineering illustrations. They are conceptual/genera
 | `Display Control Module Teardown Guide.png` | 2026-08-03 | Main/display PCB views, likely components, enclosure and test-pad annotations | Conceptual interpretation |
 | `ESP32 Smart E-Bike Dashboard Blueprint.png` | 2026-08-05 | ESP32 dashboard design, display UI, PCB concept, wiring and mounting | Design concept |
 | `ESP32 Dashboard Replacement Wiring Guide.png` | 2026-09-27 | Independent ESP32 dashboard architecture and conceptual wiring | Design concept |
-| `Electric Scooter Controller Exploded CAD Infographic.png` | 2026-09-27 | Veo-style display/controller exploded assembly and dimensions | CAD-style concept |
+| `Electric Scooter Controller Exploded CAD Infographic.png` | 2026-09-27 | V-E0-style display/controller exploded assembly and dimensions | CAD-style concept |
 
 ## Not recovered
 - Original Cosmo vehicle photos
