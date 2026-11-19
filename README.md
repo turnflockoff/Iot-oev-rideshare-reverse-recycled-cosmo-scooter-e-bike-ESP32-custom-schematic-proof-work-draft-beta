@@ -16,6 +16,9 @@ This repository records the observed hardware, the reverse-engineering approach,
 - [Safety and validation plan](docs/SAFETY_AND_VALIDATION.md) — required checks before any powered test.
 - [Evidence image register](evidence/IMAGE_REGISTER.md) — currently accessible photo/render inventory.
 - [System block diagram](diagrams/system-block.svg) — conceptual architecture only.
+- [Project overview](docs/PROJECT_OVERVIEW.md) — concise hypothesis, work completed, outcome, and proposed changes.
+- [Research log](docs/RESEARCH_LOG.md) — dated entries with hypothesis, method, result, and what to change.
+- [Artifact inventory](docs/ARTIFACT_INVENTORY.md) — recovered image/design assets and missing source material.
 
 ## Current working hypothesis
 
