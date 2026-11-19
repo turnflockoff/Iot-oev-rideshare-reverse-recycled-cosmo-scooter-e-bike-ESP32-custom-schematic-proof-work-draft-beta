@@ -1,4 +1,4 @@
-# VEO / COSMO scooter-e-bike reverse-engineering & ESP32 replacement-board proof of work
+# OEV / OMSOC Rideshare Reverse Engineering — Scooter PCB & ESP32 Replacement Board
 
 **Status:** Research / concept / draft beta. Not a validated retrofit.  
 **Project owner:** TurnFlockOff / turnflockoff  
