@@ -2,7 +2,7 @@
 
 ## Scope
 
-The project is investigating the original VEO-style scooter/e-bike display and middle electronics assembly as a candidate for a custom ESP32-based replacement. The intended app/dashboard is a later software layer. The motor controller and battery must remain independently compatible and protected.
+The project is investigating the original V-E0-style scooter/e-bike display and middle electronics assembly as a candidate for a custom ESP32-based replacement. The intended app/dashboard is a later software layer. The motor controller and battery must remain independently compatible and protected.
 
 ## Observed from the photo set / conversation
 
