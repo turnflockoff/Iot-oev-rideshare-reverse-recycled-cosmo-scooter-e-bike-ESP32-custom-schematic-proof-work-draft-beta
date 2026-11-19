@@ -1,79 +1,55 @@
-# OEV / OMSOC Rideshare Reverse Engineering — Scooter PCB Image Archive
+# Evidence and image register
 
-**Project label:** OEV OMSOC Rideshare Reverse Engineering  
-**Scope:** Scooter/e-bike display, PCB, controller, connector, battery, teardown, wiring, and ESP32 replacement-board visuals.  
-**Date:**  
-**Image inventory:** 42 image files recovered from this conversation's project attachments. Every recovered image is listed below; no image has been intentionally omitted from this inventory.
+## Recovery result
+A broader archive search recovered **43 unique original hardware/document photographs** and **9 engineering-artwork images** (52 unique images total after duplicate-content removal). The local collection ZIP contains the recovered images organized into separate folders.
 
-## 1. Original hardware / PCB / connector / battery photographs
+**Important publication status:** The repository contains this register and supporting Markdown documentation. The image binaries are not yet committed to GitHub because the available GitHub connection in this session does not expose a direct local-file/binary upload workflow. Do not interpret the ZIP being available in this chat as proof that its contents are already in the repository.
 
-These are source photographs, not generated illustrations. Preserve originals and do not annotate or overwrite them.
+## Original hardware/document photos (43)
 
-| # | Original filename | Group | Date |
-|---:|---|---|---|
-| 1 | `IMG_FCF98993-7B21-4DDD-B369-3C554828368C.jpeg` | Original hardware photo | |
-| 2 | `IMG_6BEFE09D-66E5-472F-B693-2A4F64391955.jpeg` | Original hardware photo | |
-| 3 | `IMG_C16523C4-2DFA-48C0-8AC1-152ACA79FF6E.jpeg` | Original hardware photo | |
-| 4 | `IMG_80FAF62A-1F47-49ED-9D08-F04BCB01142A.jpeg` | Original hardware photo | |
-| 5 | `IMG_67FABB23-8554-4C62-AF15-7F8549B9B791.jpeg` | Original hardware photo | |
-| 6 | `IMG_CBB27688-1E3E-424A-8981-4B6701A246B5.jpeg` | Original hardware photo | |
-| 7 | `IMG_98A42CE2-1E93-4D20-9DC9-4B26A8864AA6.jpeg` | Original hardware photo | |
-| 8 | `IMG_4CA13A3C-6E46-47E3-A8E8-9F04FD1DA576.jpeg` | Original hardware photo | |
-| 9 | `IMG_4313.jpeg` | Original hardware photo series | |
-| 10 | `IMG_4312.jpeg` | Original hardware photo series | |
-| 11 | `IMG_4311.jpeg` | Original hardware photo series | |
-| 12 | `IMG_4310.jpeg` | Original hardware photo series | |
-| 13 | `IMG_4309.jpeg` | Original hardware photo series | |
-| 14 | `IMG_4308.jpeg` | Original hardware photo series | |
-| 15 | `IMG_4307.jpeg` | Original hardware photo series | |
-| 16 | `IMG_4306.jpeg` | Original hardware photo series | |
-| 17 | `IMG_4305.jpeg` | Original hardware photo series | |
-| 18 | `IMG_4304.jpeg` | Original hardware photo series | |
-| 19 | `IMG_4303.jpeg` | Original hardware photo series | |
-| 20 | `IMG_4302.jpeg` | Original hardware photo series | |
-| 21 | `IMG_4301.jpeg` | Original hardware photo series | |
-| 22 | `IMG_4300.jpeg` | Original hardware photo series | |
-| 23 | `IMG_4299.jpeg` | Original hardware photo series | |
-| 24 | `IMG_4298.jpeg` | Original hardware photo series | |
-| 25 | `IMG_4297.jpeg` | Original hardware photo series | |
-| 26 | `IMG_4296.jpeg` | Original hardware photo series | |
-| 27 | `IMG_4295.jpeg` | Original hardware photo series | |
-| 28 | `IMG_4294.jpeg` | Original hardware photo series | |
-| 29 | `IMG_4320.jpeg` | Battery label photograph | |
+The original images include:
+- IMG_4294.jpeg through IMG_4313.jpeg — twenty-image scooter electronics photo sequence showing the connector block, enclosure, and multiple PCB views.
+- IMG_4320.jpeg — battery label photograph.
+- IMG_A720CAC8-ED09-4BE5-9F3F-33FDD53C6B76.jpeg
+- IMG_E3030438-0104-47DF-8BE8-8AED24E1DEFB.jpeg
+- IMG_7813230F-EA70-4DBD-BBC5-973C1287D37B.jpeg
+- IMG_E43C42FF-6CF0-4207-BCFD-67A0740607CE.jpeg
+- IMG_E9D02FBC-43BF-4EE2-88FF-CD5C50A5C022.jpeg
+- IMG_0F817CAD-5550-4FB8-8F43-C0823706B818.jpeg
+- IMG_CABB0C9D-69AD-4D47-BB88-B1FA12D58280.jpeg
+- IMG_E110F02F-B442-4EE5-AC9E-6804BCC5E2FF.jpeg
+- IMG_F9BC24A3-94EB-45A1-B910-E96F63EF6F78.jpeg
+- IMG_D389F7C2-90DD-4B74-9269-1BC7FB4E8593.jpeg
+- IMG_74608155-356D-4673-A7F0-686889B0E4D6.jpeg
+- IMG_FCF98993-7B21-4DDD-B369-3C554828368C.jpeg
+- IMG_6BEFE09D-66E5-472F-B693-2A4F64391955.jpeg
+- IMG_C16523C4-2DFA-48C0-8AC1-152ACA79FF6E.jpeg
+- IMG_80FAF62A-1F47-49ED-9D08-F04BCB01142A.jpeg
+- IMG_67FABB23-8554-4C62-AF15-7F8549B9B791.jpeg
+- IMG_CBB27688-1E3E-424A-8981-4B6701A246B5.jpeg
+- IMG_98A42CE2-1E93-4D20-9DC9-4B26A8864AA6.jpeg
+- IMG_4CA13A3C-6E46-47E3-A8E8-9F04FD1DA576.jpeg
+- IMG_172DD977-287F-4D60-B968-F201E1B96575.jpeg
+- IMG_01AC6E45-A25A-4655-83B9-49AAD5665E45.jpeg
+- IMG_C80468FF-D6C3-43D5-9786-736ECCB84266.jpeg
 
-## 2. Generated technical illustrations / 3D concepts / wiring diagrams
+The collection ZIP includes all 43 unique source photos/documents; the grouped filename index above is not a substitute for the complete ZIP inventory.
 
-These are visual design aids. They are not measured CAD, OEM schematics, or verified electrical pinouts.
+## Engineering artwork (9)
 
-| # | Original filename | Classification | Date |
-|---:|---|---|---|
-| 30 | `a_detailed_technical_wiring_diagram_image_a_clean.png` | Wiring diagram concept | |
-| 31 | `a_high_resolution_technical_wiring_diagram_schem.png` | Wiring schematic concept | |
-| 32 | `a_detailed_infographic_diagram_scene_a_high_resol.png` | Teardown / module guide illustration | |
-| 33 | `a_highly_detailed_technical_infographic_diagram_im.png` | Technical infographic | |
-| 34 | `a_high_detail_technical_teardown_poster_infograp.png` | Teardown poster | |
-| 35 | `fb2f1392-1b6b-4e49-8367-009025e530e3.png` | Generated technical illustration | |
-| 36 | `7f88494f-6be3-4e21-a6a0-fe0dfe892254.png` | Generated technical illustration | |
-| 37 | `4cb58a05-ad01-4df9-a90d-90b077f5868f.png` | Generated technical illustration | |
-| 38 | `a_high_detail_infographic_technical_teardown_pos.png` | Teardown / PCB illustration | |
-| 39 | `a_highly_detailed_technical_infographic_poster_s.png` | Technical poster | |
-| 40 | `a_wide_infographic_diagram_image_clean_technical.png` | Wiring / system infographic | |
-| 41 | `a_clean_technical_infographic_engineering_illustra.png` | Replacement PCB concept — Model 1 | 2026-11-19 |
-| 42 | `a_high_detail_technical_infographic_render_of_an_e.png` | Enclosure / assembly concept — Model 2 | 2026-11-19 |
+- Conceptual electric bike wiring diagram.png
+- Electric bike wiring schematic design.png
+- E-scooter display control module guide.png
+- Display Control Module Teardown Guide.png
+- ESP32 Smart E-Bike Dashboard Blueprint.png
+- ESP32 Dashboard Replacement Wiring Guide.png
+- ESP32 PCB Engineering Assembly Infographic.png
+- Electric Scooter Controller Exploded CAD Infographic.png
+- Display Control Module PCB Trace Map.png
 
-## 3. Important visual-evidence rules
-
-- Keep original photos and generated concepts in separate folders when the binary archive is uploaded.
-- Do not treat generated labels, dimensions, connector pinouts, component positions, or wire colors as measured facts.
-- The nine connector labels documented from the photographed panel are functional names only; pin-level voltage, polarity, current, and protocol still require measurement.
-- Battery photograph: visible label states 46.8 V, 15 Ah, 702 Wh. Smaller series/parallel marking is unclear and needs independent confirmation.
-- No dates are inferred from filenames. Dates are blank unless explicitly established in the project record.
-
-## 4. Binary upload status
-
-The 42 image files were recovered and inventoried from the conversation attachments. The connected GitHub actions available in this session can create text files and Git blobs, but the binary image transfer path is not available through the current file connector. **Therefore the image binaries are not yet committed to this repository.** This page is an exhaustive inventory, not a claim that the files have been uploaded. The next publishing step is to transfer the originals into these repository folders:
-
-- `evidence/original-photos/`
-- `evidence/generated-concepts/`
-
-No recovered image should be dropped during that transfer.
+## Evidence handling
+- Original photographs remain unaltered in the collection.
+- Generated diagrams and 3D renders are separated from original hardware evidence.
+- Capture dates remain blank where not independently confirmed.
+- Saved/upload timestamps must not be treated as physical capture dates.
+- AI-generated pinouts, dimensions, and component callouts are not verified electrical measurements.
