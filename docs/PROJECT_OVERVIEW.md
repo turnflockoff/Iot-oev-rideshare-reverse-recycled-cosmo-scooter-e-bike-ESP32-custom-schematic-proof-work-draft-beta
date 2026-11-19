@@ -1,11 +1,15 @@
-# Veo Shared-Ride Scooter / E-Bike Reverse-Engineering & ESP32 Rebuild (Draft Beta)
+# V-E0 Shared-Ride Scooter / E-Bike Reverse-Engineering & ESP32 Rebuild (Draft Beta)
 
 **Status:** Research and design draft — not a validated repair manual or manufacturer specification.  
 **Project date:**  
 **Author:** TurnFlockOff / project owner
 
+## Naming and independence
+
+“V-E0” is a neutral project codename used to describe the photographed shared-ride scooter/e-bike hardware. This documentation does not claim affiliation, sponsorship, endorsement, or authorization by any manufacturer or operator. Using a codename does not itself resolve trademark or legal risk.
+
 ## Purpose
-Organize the available research artifacts concerning Veo shared-rideshare scooter/e-bike electronics, display/control-module teardown concepts, wiring architecture, and an independent ESP32-based replacement-dashboard concept.
+Organize the available research artifacts concerning V-E0 shared-rideshare scooter/e-bike electronics, display/control-module teardown concepts, wiring architecture, and an independent ESP32-based replacement-dashboard concept.
 
 ## Working hypothesis
 The display/control assembly may combine a user interface, low-voltage power regulation, vehicle I/O and communications/telematics. A separate ESP32-based dashboard may be feasible if the actual vehicle-side interfaces are identified and electrically verified. Connector labels, wire colors, voltages, protocols and controller behavior in the available diagrams are not confirmed OEM facts.
